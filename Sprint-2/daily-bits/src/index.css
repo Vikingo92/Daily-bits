@@ -1,0 +1,8 @@
+.correct {
+    border-color: #2CB67D;
+    background-color: #2CB67D;
+}
+
+.inCorrect {
+    border-color:#EF4565;
+}
